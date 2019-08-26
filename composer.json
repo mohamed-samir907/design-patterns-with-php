@@ -1,0 +1,18 @@
+{
+    "name": "artisan/design-patterns-with-php",
+    "description": "design patterns with php",
+    "authors": [
+        {
+            "name": "Mohamed Samir",
+            "email": "gm.mohamedsamir@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Creational\\": "Creational/",
+            "Structural\\": "Structural/",
+            "Behavioral\\": "Behavioral/"
+        }
+    }
+}
